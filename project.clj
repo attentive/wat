@@ -5,4 +5,5 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :repositories [["java.net" "http://download.java.net/maven/2/"]]
   :dependencies [[org.clojure/clojure "1.4.0"]
-                 [org/jaudiotagger "2.0.3"]])
+                 [org/jaudiotagger "2.0.3"]
+                 [clj-diff "1.0.0-SNAPSHOT"]])
